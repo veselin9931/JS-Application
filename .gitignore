@@ -1,15 +1,4 @@
 node_modules/
 
-*.tmp
-
 # Word temporary
-~$*.docx*
-
-# Excel temporary
-~$*.xls*
-
-# Excel Backup File
-*.xlk
-
-# PowerPoint temporary
-~$*.ppt*
+*.docx
