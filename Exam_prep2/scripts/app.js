@@ -16,6 +16,7 @@ const app = Sammy('#root', function(){
 
     this.get('#/user/logout', controllers.user.get.logout);
     //Trek
+    this.get('#/trek/create', controllers.trek.get.create);
 
 });
 
