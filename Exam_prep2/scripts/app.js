@@ -8,7 +8,8 @@ const app = Sammy('#root', function(){
     this.get('#/home', controllers.home.get.home);
     
     //User
-
+    this.get('#/register', controllers.user.get.register);
+    this.get('#/login', controllers.user.get.login);
     //Trek
 
 });
