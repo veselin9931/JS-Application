@@ -3,7 +3,7 @@ node_modules/
 *.tmp
 
 # Word temporary
-~$*.doc*
+~$*.docx*
 
 # Excel temporary
 ~$*.xls*
