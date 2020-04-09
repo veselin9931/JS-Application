@@ -1,6 +1,6 @@
 import controllers from "../controllers/index.js";
 
-const app = Sammy('#root', function(){
+const app = Samsmy('#root', function(){
 
     this.use('Handlebars', 'hbs');
 

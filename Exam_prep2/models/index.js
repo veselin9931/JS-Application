@@ -1,6 +1,6 @@
 import user from "./user.js"
-import cause from "./cause.js"
+import trek from "./trek.js"
 
 export default{
-    user, cause
+    user, trek
 }
